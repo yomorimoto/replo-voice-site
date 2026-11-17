@@ -10,8 +10,7 @@ title: RepLo Voice サポート / Support
 
 不具合・ご要望・購入に関するお問い合わせは、以下までご連絡ください。
 
-- メール: 準備中
-- GitHub: [Issues](https://github.com/yomorimoto/replo-voice-site/issues)（GitHub アカウントが必要です）
+- メール: [yomorimoto.apps@gmail.com](mailto:yomorimoto.apps@gmail.com)
 
 可能であれば、iPhone の機種・iOS バージョン・アプリのバージョン（設定 → 一般 → iPhone ストレージ → RepLo Voice で確認できます）を添えてください。
 
@@ -43,8 +42,7 @@ RepLo Voice lets you log strength-training sets by voice on iPhone.
 
 For bugs, feedback, or purchase questions:
 
-- Email: coming soon
-- GitHub: [Issues](https://github.com/yomorimoto/replo-voice-site/issues) (GitHub account required)
+- Email: [yomorimoto.apps@gmail.com](mailto:yomorimoto.apps@gmail.com)
 
 Please include your iPhone model, iOS version, and app version if possible.
 
