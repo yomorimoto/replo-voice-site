@@ -4,7 +4,7 @@ title: RepLo Voice プライバシーポリシー / Privacy Policy
 
 # RepLo Voice プライバシーポリシー
 
-**最終更新日:** 2026-11-17
+**最終更新日:** 2026-11-19
 
 本ポリシーは、モバイルアプリ「RepLo Voice」（以下「本アプリ」）における個人情報および関連データの取扱いについて説明します。
 
@@ -25,11 +25,11 @@ RepLo Voice は、筋トレのレップ記録を音声などで残すための�
 
 ### 2.2 マイクおよび音声認識
 
-音声で記録する場合、本アプリは**マイク**へのアクセスと**音声認識**（Apple の `SFSpeechRecognizer` 等）を利用します。認識処理のため、音声データが **Apple の音声認識サービスへ送信される場合があります**（Apple のプライバシー方針および端末・OS 設定に従います）。本アプリは、音声を第三者広告・分析事業者に送信しません。本アプリ独自のサーバーへ音声を送ることもありません。
+音声で記録する場合、本アプリは**マイク**へのアクセスと**音声認識**（Apple の `SFSpeechRecognizer` 等）を利用します。認識処理のため、音声データが **Apple の音声認識サービスへ送信される場合があります**（Apple のプライバシー方針および端末・OS 設定に従います）。本アプリは、音声を第三者広告・分析事業者に送信しません。本アプリの運営者のサーバーへ音声を送ることもありません（運営者はサーバーを持っていません）。
 
 ### 2.3 ローカル通知
 
-未記録リマインドなどのため、**端末上のローカル通知**を送信することがあります。通知の内容は端末内で生成され、当社サーバーへ送信されません。通知の許可は OS の設定で変更できます。
+未記録リマインドなどのため、**端末上のローカル通知**を送信することがあります。通知の内容は端末内で生成され、外部のサーバーへ送信されません。通知の許可は OS の設定で変更できます。
 
 ### 2.4 購入情報（StoreKit / Apple）
 
@@ -40,7 +40,7 @@ RepLo Voice は、筋トレのレップ記録を音声などで残すための�
 - **広告・トラッキング** — 行いません
 - **第三者分析 SDK** — 組み込んでいません
 - **HealthKit** — 利用していません
-- **写真ライブラリ** — 利用していません（ボディ写真機能は取り下げ済みのため、写真へのアクセスは行いません）
+- **写真ライブラリ** — 利用していません
 
 ※ 「収集しない」は、本アプリが上記カテゴリのデータを広告・分析目的で取得・送信しないことを意味します。音声認識時に Apple のサービスへ音声が送られる場合は、上記 2.2 の説明に従います。
 
@@ -79,15 +79,13 @@ RepLo Voice は、筋トレのレップ記録を音声などで残すための�
 
 ## 7. お問い合わせ
 
-プライバシーに関するお問い合わせは、以下までご連絡ください。
-
-[サポートページ](https://yomorimoto.github.io/replo-voice-site/) に記載の連絡先までお問い合わせください。
+プライバシーに関するお問い合わせは、[サポートページ](https://yomorimoto.github.io/replo-voice-site/) に記載の連絡先までご連絡ください。
 
 ---
 
 # Privacy Policy (English)
 
-**Last updated:** 2026-11-17
+**Last updated:** 2026-11-19
 
 This Privacy Policy describes how the mobile app **RepLo Voice** (“the App”) handles information.
 
@@ -98,7 +96,7 @@ This Privacy Policy describes how the mobile app **RepLo Voice** (“the App”)
 - **Microphone and speech recognition** may be used; speech processing may involve **Apple’s speech services** and audio **may leave the device**.
 - **Local notifications** may remind you to log workouts; they are generated on device.
 - **Purchases** are handled via **Apple StoreKit**.
-- **No ads, no analytics SDKs, no HealthKit, no photo library access** (body-photo feature withdrawn).
+- **No ads, no analytics SDKs, no HealthKit, no photo library access.**
 
 ### Data we use
 
@@ -121,7 +119,3 @@ This Privacy Policy describes how the mobile app **RepLo Voice** (“the App”)
 ### Contact
 
 Please use the contact listed on the [support page](https://yomorimoto.github.io/replo-voice-site/).
-
----
-
-*Published at https://yomorimoto.github.io/replo-voice-site/privacy — source: replo-voice `docs/store/privacy/privacy-policy.md`.*
